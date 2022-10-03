@@ -4,4 +4,4 @@
 ### História de usuário
 - Eu como usuário posso inserir recomendações para que outros viajantes tenham acesso.
 
-Disponivel em: https://github.com/gui-azesantos/Gulliver-Traveller-ID7
+Disponivel em: https://gui-azesantos.github.io/Gulliver-Traveller-ID7/
