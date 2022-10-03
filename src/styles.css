@@ -1,0 +1,51 @@
+body {
+  font-family: "Open Sans", sans-serif;
+
+  margin: 0 auto;
+  max-width: 600px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.image-container {
+  max-height: 750px;
+  display: flex;
+  flex-wrap: 1;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-container textarea {
+  margin-bottom: 8px;
+}
+
+.form-container input {
+  margin-bottom: 8px;
+}
+
+.comments-container p {
+  font-size: 14px;
+  color: gray;
+}
+
+.comments-container span {
+  font-weight: 600;
+}
+
+p {
+  padding: 8px;
+  text-align: justify;
+}
+
+button {
+  background-color: green;
+  color: white;
+
+  height: 30px;
+  border: none;
+}
